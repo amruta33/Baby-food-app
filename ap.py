@@ -15,7 +15,7 @@ os.environ["OPENAI_API_KEY"]=openai_key
 
 # streamlit framework
 
-st.title('Celebrity Search Results')
+st.title('Prepare a meal plan for your baby here')
 input_text=st.text_input("Please input your baby's age in months:")
 
 # Prompt Templates
